@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "noEmit": true,
+    "allowSyntheticDefaultImports": true,
+    "jsx": "preserve"
+  },
+  "extends": "../../tsconfig.json"
+}
